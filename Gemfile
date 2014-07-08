@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.1.1'
+ruby '2.1.2'
 
 # Framework
 gem 'rails', '4.1.4'
@@ -56,7 +56,7 @@ group :development do
   gem 'pry-doc'
   gem 'pry-rails'
   gem 'pry-stack_explorer'
-  gem 'pry-debugger'
+  #gem 'pry-debugger'
   gem 'quiet_assets'
   gem 'tapp'
   gem 'view_source_map'
